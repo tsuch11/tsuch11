@@ -1,3 +1,3 @@
-# Hi There I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3DCFFF&width=200&lines=tsuch11)](https://git.io/typing-svg)
+# Hi There I'm <img src="https://img.shields.io/badge/tsuch11-3DCFFF?style=flat&logoWidth=0&labelColor=3DCFFF" alt="tsuch11" valign="middle" height="36"/>
 
 > 99 warnings, 0 errors, 100% fear.
