@@ -2,12 +2,12 @@
 
 Junior Full-Stack Developer based in Bangkok, Thailand. Trained at TechUp bootcamp,
 building web applications with React, Next.js, TypeScript, and Supabase.
-Currently learning: [Go / backend testing — แก้ตามจริง]
+Currently learning: Go and backend testing.
 
 ## Tech Stack
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 **Backend & Database:** Supabase, PostgreSQL, Prisma, Spring Boot
-**Tools:** Git, GitHub, Vercel, Docker, [AI tools ที่ใช้จริง]
+**Tools:** Git, GitHub, Vercel, Docker, Claude Code
 
 ## Featured Projects
 | Project | Description | Stack | Links |
