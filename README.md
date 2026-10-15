@@ -1,4 +1,4 @@
-# Hi There I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3DCFFF&width=160&vCenter=true&lines=Teerapat" valign="middle" height="34"/>
+# Hi there I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=3DCFFF&width=160&vCenter=true&lines=Teerapat" valign="middle" height="34"/>
 
 Junior Full-Stack Developer based in Bangkok, Thailand. Trained at TechUp bootcamp,
 building web applications with React, Next.js, TypeScript, and Supabase.
